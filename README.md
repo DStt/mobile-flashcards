@@ -3,7 +3,7 @@
 ### Install
 
 ```
-git https://github.com/DStt/mobile-flashcards
+git clone https://github.com/DStt/mobile-flashcards
 cd mobile-flashcards
 npm install
 ```
