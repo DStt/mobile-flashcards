@@ -13,3 +13,5 @@ npm install
 `npm start`
 
 Open it in the [Expo app](https://expo.io) on your phone to view it
+
+Tested on Android devices
